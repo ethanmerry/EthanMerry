@@ -7,5 +7,3 @@ I'm a keen and ambitious student. As an aspiring software engineer and computer 
 I am always seeking to learn more about these concepts and keep up-to-date with the latest developments in the field.
 
 [**View Portfolio**](https://ethanmerry.com)
-
-[**Don't be shy, email me**](mailto:ethan@ethanmerry.com)
